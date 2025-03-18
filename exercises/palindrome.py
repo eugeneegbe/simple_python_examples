@@ -26,3 +26,4 @@ print(check_palindrome(string))
 # output check to be true
 # else it is false
 # Given the above example the output is True
+# Note: This solution has a complexity of O(n) as it has to go through n number of elements
